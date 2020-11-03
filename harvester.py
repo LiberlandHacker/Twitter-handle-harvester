@@ -7,11 +7,11 @@ Copy and paste text here and
 I will remove everything
 that does NOT start with '@',
 leaving you with only the
-handles.
+Twitter handles.
 
 INPUT TEXT HERE --> """)
 
-# Here is the list of all words from text that begin with "@"
+# Here is the list of all words from the text that begin with "@"
 print("""
 Here are your results:
   """)
