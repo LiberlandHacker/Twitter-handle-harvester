@@ -1,5 +1,5 @@
 # By Jonathan McCormick, Jr.
-# Updated September 30, 2020
+# Updated Nov 3, 2020
 
 # Copy and paste text to be filtered
 text = input("""
